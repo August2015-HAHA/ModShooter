@@ -1,0 +1,12 @@
+{
+  "level": 7,
+  "name": "Serpentine Run",
+  "target_score": 12,
+  "spawn_interval_ms": 900,
+  "enemy_weights": {
+    "enemy": 1,
+    "powerful": 2,
+    "serpentine": 5
+  },
+  "boss": false
+}

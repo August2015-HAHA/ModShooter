@@ -1,0 +1,26 @@
+{
+  "id": "powerful",
+  "name": "Powerful",
+  "size": 45,
+  "health": 3,
+  "speed": 1,
+  "color": [180, 50, 255],
+  "movement": "fall",
+  "unlock_level": 1,
+  "spawn_priority": 2,
+  "clusterable": true,
+  "segments": 1,
+  "sway_distance": 0,
+  "segment_phase_offset": 0.3,
+  "wave_speed": 0.08,
+  "spawn": {
+    "chance": 0.0,
+    "chance_per_level": 0.1,
+    "max_chance": 0.5
+  },
+  "attack": {
+    "speed": 0,
+    "interval": 0,
+    "size": 0
+  }
+}

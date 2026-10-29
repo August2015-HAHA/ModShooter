@@ -1,0 +1,11 @@
+{
+  "level": 5,
+  "name": "Boss Encounter",
+  "target_score": 10,
+  "spawn_interval_ms": 1000,
+  "enemy_weights": {
+    "enemy": 1,
+    "powerful": 1
+  },
+  "boss": true
+}

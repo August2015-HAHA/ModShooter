@@ -1,0 +1,11 @@
+{
+  "level": 3,
+  "name": "Power Surge",
+  "target_score": 10,
+  "spawn_interval_ms": 850,
+  "enemy_weights": {
+    "enemy": 1,
+    "powerful": 4
+  },
+  "boss": false
+}

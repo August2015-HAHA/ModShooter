@@ -1,0 +1,26 @@
+{
+  "id": "boss",
+  "name": "Boss",
+  "size": 100,
+  "health": 20,
+  "speed": 4,
+  "color": [255, 40, 100],
+  "movement": "boss",
+  "unlock_level": 5,
+  "spawn_priority": 1,
+  "clusterable": false,
+  "segments": 1,
+  "sway_distance": 0,
+  "segment_phase_offset": 0.3,
+  "wave_speed": 0.08,
+  "spawn": {
+    "chance": 0.0,
+    "chance_per_level": 0.0,
+    "max_chance": 1.0
+  },
+  "attack": {
+    "speed": 5,
+    "interval": 75,
+    "size": 14
+  }
+}

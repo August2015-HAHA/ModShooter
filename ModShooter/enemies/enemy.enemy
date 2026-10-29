@@ -1,0 +1,26 @@
+{
+  "id": "enemy",
+  "name": "Basic",
+  "size": 35,
+  "health": 1,
+  "speed": 2,
+  "color": [220, 50, 50],
+  "movement": "fall",
+  "unlock_level": 1,
+  "spawn_priority": 100,
+  "clusterable": true,
+  "segments": 1,
+  "sway_distance": 0,
+  "segment_phase_offset": 0.3,
+  "wave_speed": 0.08,
+  "spawn": {
+    "chance": 0.0,
+    "chance_per_level": 0.0,
+    "max_chance": 1.0
+  },
+  "attack": {
+    "speed": 0,
+    "interval": 0,
+    "size": 0
+  }
+}
