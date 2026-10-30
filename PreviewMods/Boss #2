@@ -1,0 +1,26 @@
+{
+  "id": "Boss2",
+  "name": "King Cobra",
+  "size": 50,
+  "health": 100,
+  "speed": 1,
+  "color": [0, 210, 170],
+  "movement": "weave",
+  "segments": 6,
+  "sway_distance": 67,
+  "segment_phase_offset": 0.3,
+  "wave_speed": 0.08,
+  "unlock_level": 10,
+  "spawn_priority": 1,
+  "clusterable": false,
+  "spawn": {
+    "chance": 0.25,
+    "chance_per_level": 0.0,
+    "max_chance": 0.25
+  },
+  "attack": {
+    "speed": 40,
+    "interval": 1,
+    "size": 20
+  }
+}
