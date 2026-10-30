@@ -5,7 +5,7 @@
   "health": 100,
   "speed": 1,
   "color": [0, 210, 170],
-  "movement": "weave",
+  "movement": "boss",
   "segments": 6,
   "sway_distance": 67,
   "segment_phase_offset": 0.3,
